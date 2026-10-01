@@ -12,7 +12,7 @@ import re
 # !!! --- API KEY CONFIGURATION --- !!!
 # IMPORTANT: The hardcoded API key has been removed for security.
 # This script now requires you to set the GEMINI_API_KEY environment variable.
-api_key = "AIzaSyAkDK_jraFWcZbIpNNjQY3gXLQoLQBzmM4"
+api_key = ""
 
 if not api_key:
     print("Error: Gemini API Key not found.")
